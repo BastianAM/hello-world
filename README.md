@@ -1,2 +1,3 @@
 # hello-world
-My first repository.
+
+This is Bastian, a regular guy learning about GitHub. 
